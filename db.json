@@ -1,0 +1,46 @@
+{
+"student": {
+"id": 1,
+"name": "Aisha Kabiru",
+"matricNumber": "SE/2023/17835",
+"department": "Software Engineering",
+"level": "400 Level",
+"session": "2025/2026"
+},
+"fees": [
+{
+"id": "1",
+"name": "Tuition Fee",
+"amount": 250000,
+"paid": 0,
+"deadline": "2026-10-15",
+"status": "unpaid"
+},
+{
+"id": "2",
+"name": "Accommodation Fee",
+"amount": 120000,
+"paid": 0,
+"deadline": "2026-10-30",
+"status": "unpaid"
+},
+{
+"id": "3",
+"name": "Technology Fee",
+"amount": 50000,
+"paid": 0,
+"deadline": "2026-11-05",
+"status": "unpaid"
+},
+{
+"id": "4",
+"name": "Library Fee",
+"amount": 20000,
+"paid": 0,
+"deadline": "2026-11-10",
+"status": "unpaid"
+}
+],
+"transactions": [],
+"$schema": "./node_modules/json-server/schema.json"
+}
