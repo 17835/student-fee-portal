@@ -2,7 +2,7 @@ Student Fee Portal
 
 A responsive web application designed to help students manage their school fees, monitor payment progress, view fee breakdowns, and access payment receipts through a simple and user-friendly dashboard.
 
-## Live Project
+## Live Project 
 
 **Live Website:** [Student Fee Portal](https://scintillating-lamington-f05ef5.netlify.app/)
 
