@@ -74,10 +74,9 @@ Screenshots of the application are included in the GitHub repository's `screensh
 
 [View Project Screenshots](https://github.com/17835/student-fee-portal/tree/main/Screenshots)
 
-## Project Documentation and Presentation
+## Project Documentation
 
 - [Project Documentation (PDF)](https://github.com/17835/student-fee-portal/blob/6bd255b12d8541d0232b9e82cfb1670a35d3ddda/Project-Documentation.pdf)
-- Presentation Slides (PDF): To be added if a presentation PDF is uploaded to the repository.
 
 ## Future Improvements
 
